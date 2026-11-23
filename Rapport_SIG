@@ -1,0 +1,23 @@
+#Rapport SIG
+Projet : PlantEvo Viewer – Brief 1
+1. Objectif
+Noter la position exacte de chaque plante observée. Ces positions permettent de retrouver chaque plante et de les placer sur une carte.
+##Méthode
+**Appareil : un téléphone avec l'application KoboCollect.
+**Principe : à côté de chaque plante, le téléphone enregistre automatiquement la latitude, la longitude, l'altitude et la précision du GPS.
+**Précision : c'est l'erreur possible, en mètres. Plus le chiffre est petit, plus la position est bonne.
+**Durée du relévé : environ 9h30 à 11h30.
+
+##Lecture des résultats
+
+Tous les points sont dans une petite zone, au centre de l'INPHB.
+
+##Carte de localisation:
+
+lien de la projection des coordonnées sur google map:
+ https://earth.google.com/earth/d/1RVUdU3_WrgJaQt2hF-rvfSfwWrM-Amqu?usp=sharing
+
+Amélioration: Faire une carte avec QGIS les données.
+
+8. Conclusion
+Huit plantes ont été localisées avec un GPS de téléphone. La plupart des positions sont précises à environ 5 m.

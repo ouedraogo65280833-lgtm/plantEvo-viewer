@@ -1,0 +1,48 @@
+#Rapport de travaux pratiques pour le brief projet1
+
+##Projet : PlantEvo Viewer,
+Auteur : Bourahima Ouedraogo
+Date de la collecte de donnée : 21 novembre 2026, de 09h30 à 11h30
+Lieu : Yamoussoukro, INPHB-centre
+##Objectif:
+Observer des plantes de chaque groupe (algues, mousses, fougères, gymnospermes, graminées et dicotylédones).
+La collecte à été faite dans le bute d'utliser les données pour concevoire une page statique pour une exposition sur l'évolution des végétaux.
+##Méthode
+Les données ont été saisies sur téléphone avec KoboCollect après avoir conçu le formulaire et déployer sur KoboToolbox. Pour chaque plante, le formulaire demande:
+    *la position GPS ;
+    *le nom de la plante ;
+    *le milieu : humide ou sec, ombre ou soleil, sol, mur, eau ou tronc ;
+    *le groupe végétal ;
+    *3 photos: la plante entière, l'appareil végétal et l'organe de production (fleurs ou fruits) si visible.
+
+##Observations par groupe de plante
+
+**Algues (E02-06)
+Les algues forment des amas dans l'eau. Elles n'ont ni racines, ni tige, ni feuilles : c'est un thalle. Elles vivent dans l'eau. chez les algue, l'appareil végétal n'est pas pas visible par l'oeil humain.
+
+**Mousses (E02-05)
+La mousse pousse sur un tronc, à l'ombre. Elle forme un petit tapis vert, collé à son support. Elle n'a pas de vraies racines mais des rhizoïdes. On la trouve dans les endroits humides et ombragés. Les organes reproducteurs ne sont pas visible à l'oeil nu. 
+
+**Fougères (E02-07)
+La fougère pousse dans un endroit humide, près de l'eau et à l'ombre comme sur les tronc de palmier. Elle a de vraies racines. La photo d'organe de production n'a pas été prise car les spore ne sont pas visible à l'oeil nu.
+
+**gymnospermes (E02-08)
+Cette plante pousse sur un sol sec, en plein soleil. Les gymnospermes font des graines nues, sans fruit. la photo prise correspont un gymnosperme de la famille des Cycadaceae. L'organe de production n'a pas été prise car la plante est encore jeune.
+
+**Graminées (E02-02 et E02-04)
+Les deux plantes ont été prélever et elles poussent sur un sol sec, en plein soleil. Ce sont des herbes à feuilles longues et fines. Elles ont une fleur et un fruit, mais elles sont pollinisées par le vent. Les éléments photographiés sont le Panicum maximum (herbe de guinée) et Mimosa pudica (sensive). Ses organes reproducteurs ont été photographiés.
+
+**Dicotylédones (E02-01 et E02-03)
+Le neem et le tek poussent sur un sol sec, en plein soleil. Ce sont des arbres. Ils ont des fleurs et des fruits, et sont pollinisés par les insectes. Pour le neem, les appareil reproducteurs manques.
+
+##Ce que les milieux nous apprennent
+
+**Les algues, les mousses et les fougères ont été trouvées dans des endroits humides (eau, ombre, tronc).
+**Les gymnospermes, les graminées et les dicotylédones ont été trouvés sur un sol sec, au soleil. Leur reproduction se fait par pollinisation à travers les agents pollinisateurs: ils sont plus indépendants de l'eau par rapport aux groupes cités ci-dessus.
+**Limites et à faire
+**Une plante n'a pas de été identifiée: E02-08 doivent être identifiées, mais elle fait partie de la familles des Cycadaceae.
+
+**Cinq plantes n'ont pas de photo de leur appareil reproducteurs.
+
+##Conclusion
+Cette sortie a permis de voir un exemple de chaque groupe de plantes et de comprendre le lien entre le milieu de vie et l'évolution. Les photos et les noms serviront aux pages du site. Les positions GPS sont dans dans le fichier Excel.
